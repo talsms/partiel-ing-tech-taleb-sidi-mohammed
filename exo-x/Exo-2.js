@@ -7,6 +7,8 @@ class Avion {
         this._reservoir = reservoir;
         this._vitesse = vitesse;
     }
+// les variables sont définies avec "this._" pour indiquer qu'elles sont des propriétés privées de la classe.
+// Parce que l'accès direct aux propriétés est considéré comme une mauvaise pratique (Celon le web) il peut entrainer des erreur de programmation.
 
     // getters
     get marque() {
