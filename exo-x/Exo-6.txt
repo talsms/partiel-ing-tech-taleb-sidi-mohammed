@@ -1,0 +1,5 @@
+Définition du backend : 
+C'est la partie d'une application web qui est responsable de la gestion des données, ontrairement au frontend qui se situe du côté du client
+Le backed se situe coté serveur. Souvent développer en JavaScript, PHP, Pytho...
+Le backend est nécéssaire afin d'assurer la sécurité et la stabilité d'une application, 
+ainsi que pour la gestion de la base de données et la mise en place de fonctionnalités complexes.
